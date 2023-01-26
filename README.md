@@ -29,3 +29,10 @@
   <img src="https://media.giphy.com/media/V0OggVqQxNIOI/giphy.gif" width="600" height="300"/>
 </div>
 ---
+- :telescope: I’m currently a cse undergrad.
+
+- :seedling: Exploring and up to contribute in projects.
+
+- :zap: In my free time, I solve problems on leetcode and codeforces.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-sharma-b963a91b1/)
