@@ -1,6 +1,3 @@
-<div id="title" align="center">
-  <h1>HOLAA!!</h1>
- </div>
 
 
 
