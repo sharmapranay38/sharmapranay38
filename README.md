@@ -34,7 +34,7 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sharmapranay38-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-sharma-b963a91b1/)
 
 ### :hammer_and_wrench: Languages and Tools :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmapranay38&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmapranay38&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sharmapranay38&theme=dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
