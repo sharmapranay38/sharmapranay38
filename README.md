@@ -24,9 +24,10 @@
 <img src="https://komarev.com/ghpvc/?username=sharmapranay38&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/V0OggVqQxNIOI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/V0OggVqQxNIOI/giphy.gif" width="450" height="300"/>
 </div>
 
+### :man_technologist: About Me :
 - :telescope: I’m currently a cse undergrad.
 
 - :seedling: Exploring and up to contribute in projects.
