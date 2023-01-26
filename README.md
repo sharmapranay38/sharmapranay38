@@ -43,3 +43,5 @@
   
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sharmapranay38&theme=dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+
+  [![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmapranay38)](https://github.com/anuraghazra/github-readme-stats)
