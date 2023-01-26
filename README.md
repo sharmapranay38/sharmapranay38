@@ -32,3 +32,7 @@
 - :zap: In my free time, I solve problems on leetcode and codeforces.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sharmapranay38-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-sharma-b963a91b1/)
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
