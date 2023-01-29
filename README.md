@@ -22,7 +22,6 @@
 </div>
 
 <br>
-<br>
 <hr>
 <div align="center">
   <img src="https://miro.medium.com/max/800/1*mr7WXw8tgpMhqugKP2WhrA.gif" width="450" height="300"/>
