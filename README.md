@@ -20,6 +20,9 @@
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=sharmapranay38&style=flat-square&color=blue" alt=""/>
 </div>
+
+<br>
+<br>
 <div align="center">
   <img src="https://miro.medium.com/max/800/1*mr7WXw8tgpMhqugKP2WhrA.gif" width="450" height="300"/>
 </div>
